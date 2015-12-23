@@ -15,3 +15,4 @@ We add the activity labels to this data after we convert them from numeric to mo
 **Step 5:**
 
 We calculate the average of the mean() and std() data for each activity and for each subject and store the results in a new table. Then we output a csv file with the tiday data.
+
