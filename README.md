@@ -2,9 +2,12 @@
 Project related materials for Getting cleaning data
 
 This file summarizes how the script works and the dependencies to get it to work. 
+
 There are two files that are essential to get tidy data. 
+
 	1. run_analysis.R - this is the R script that needs to be run on the data to tidy it up
 	2. CodeBook.md - This is a file that explains in english the different transformations done by the R script to tidy the data
+
 The results of the R script is available in a different file that is uploaded separately.
 Libraries
 The script needs two packages installed. The data.table package and the plyr package. Please ensure that these packages are downloaded and installed before running the script.
